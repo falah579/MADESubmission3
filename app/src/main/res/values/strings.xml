@@ -1,0 +1,22 @@
+<resources>
+    <!--Avoid hardcode-->
+    <string name="app_name">The movie database</string>
+    <string name="poster">poster</string>
+    <string name="tab_category_movies">MOVIES</string>
+    <string name="tab_category_tvshows">TV SHOWS</string>
+    <string name="change_language">Change Language Setting</string>
+    <string name="show_favorite">Show Favorite</string>
+
+    <string name="loading_judul">Is Loading . . .</string>
+    <!--<string name="loading_deskripsi">Please Wait . . .</string>-->
+    <string name="loading_deskripsi">Please Wait what the heck spider to the spider-verse emang aneh gadants jing bangsanasdadas ads as asdbas ngaasal ae jing</string>
+    <string name="loading_tanggal_rilis">MMMM DD, YYYY</string>
+    <string name="contoh_rating">8.4</string>
+    <string name="small_persen">﹪</string>
+
+    <string name="empty_description">We don\'t have an overview translated in English. Help us expand our database by adding one.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

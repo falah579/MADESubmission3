@@ -1,0 +1,18 @@
+<resources>
+    <!--Avoid hardcode-->
+    <string name="app_name">The movie database</string>
+    <string name="poster">poster</string>
+    <string name="tab_category_movies">FILM</string>
+    <string name="tab_category_tvshows">SINETRON</string>
+    <string name="change_language">Ubah Pengaturan Bahasa</string>
+    <string name="show_favorite">Tampilkan Favorit</string>
+
+    <string name="loading_judul">Is Loading . . .</string>
+    <string name="loading_deskripsi">Please Wait . . .</string>
+    <string name="loading_tanggal_rilis">MMMM DD, YYYY</string>
+    <string name="contoh_rating">8.4</string>
+    <string name="small_persen">﹪</string>
+
+    <string name="empty_description">Kami tidak punya gambaran yang diterjemahkan ke bahasa indonesia. Bantu kami memperluasnya di \"https://www.themoviedb.org/\".</string>
+
+</resources>
